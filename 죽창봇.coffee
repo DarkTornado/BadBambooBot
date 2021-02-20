@@ -27,7 +27,7 @@ SOFTWARE.
 ###
 
 preChat = []
-sdcard = File.getSdcardPath()
+sdcard = FileStream.getSdcardPath()
 says = ["조횽히해!", ".", "킁", "ㅋ?", "야", "터미널은 아이피 따는 프로그램이야", "VPN으로 카카오톡 정지 뚫을 수 있어"]
 
 saveData = (name, value) -> FileStream.write sdcard+"/죽창봇/"+name+".txt", value
