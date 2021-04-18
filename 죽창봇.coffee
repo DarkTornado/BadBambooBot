@@ -54,7 +54,7 @@ response = (room, msg, sender, isGroupChat, replier, ImageDB) ->
     replier.reply "You죽창보다 똑똑한 AI, 죽창봇입니다." if msg is "/도움말" or msg is "/죽창봇" or msg is "죽창봇"
 
     if sender is "You죽창"
-        saveData msg0, msg if msg.includes("\n")
+        saveData msg0, msg if !msg.includes("\n")
         says.push msg
     
     if msg is "/DB"
