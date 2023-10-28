@@ -20,3 +20,6 @@
 * [커피스크립트](https://coffeescript.org/)로 작성되어있으며, [채팅 자동응답 봇](https://play.google.com/store/apps/details?id=com.darktornado.chatbot)에서만 구동할 수 있습니다.
 * [MIT License](LICENSE)가 적용되어 있습니다.
 * 신원 보호를 위해, 소스 코드에 포함되어 있던 그 `유사 해커`의 이름은 `You죽창`으로 변경되어있습니다.
+
+## 근황
+* 2023년 9월에도 사기를 시고 다닌다는 제보가 있어요.
